@@ -294,3 +294,10 @@
 // Improve link descriptions - 2023-10-28 10:08:00
 // Fix scrollbar styling - 2020-09-12 10:04:00
 // Improve partial imports - 2021-11-01 10:00:00
+
+.container {
+  width: 100%;
+  max-width: 1280px;
+  margin-inline: auto;
+  padding-inline: 1rem;
+}
